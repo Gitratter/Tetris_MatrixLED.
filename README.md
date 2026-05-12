@@ -74,7 +74,7 @@ Optimized processing for microcontroller environments with limited memory and pe
 
 ## Demo
 
-(Add images or videos here)
+
 
 ## Learning Outcomes
 
